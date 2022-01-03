@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+To pass google maps api key as an environment variable through cmd line, run:
+
+### `set "REACT_APP_GOOGLE_MAPS_API_KEY=XXX" && npm start`
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
